@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PapLion
-- 👀 I’m interested in IA and Backend
-- 🌱 I’m currently learning Python
+- 👀 Interesed in WebDev, AiDev and GameDev :D
+- 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me (Discord) PapLion#9522
+- 📫 How to reach me (Discord) PapLion#95228
 
 <!---
 PapLion/PapLion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
