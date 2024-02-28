@@ -20,7 +20,7 @@ I'm just a student aspiring to work online. Here are a few key points about me:
 Feel free to connect with me on Discord (PapLion#95228) if you have any questions or if you're interested in collaboration!
 
 ## WebDev Portfolio
-Check out my [WebDev Portfolio]([https://paplion.github.io/Portafolio-Panda/src/]) to see my skills, projects, and more.
+Check out my [WebDev Portfolio](https://paplion.github.io/Portafolio-Panda/src/) to see my skills, projects, and more.
 
 **Let's connect and build something amazing together!**
 
