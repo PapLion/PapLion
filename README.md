@@ -1,8 +1,8 @@
 ### Hi there, I'm Danilo López 👋
 
-I'm a passionate student with interests in WebDev, AiDev, and GameDev. Currently learning and exploring the world of Web Development. Excited to collaborate on interesting projects.
+FullStack Developer with 3 years of experience.
 
--🌱 **Currently Learning**: WebDev
+-🌱 **Currently Learning**: SoftwareDev
 
 -💼 **Looking to Collaborate On**: Exciting Projects
 
@@ -10,12 +10,10 @@ I'm a passionate student with interests in WebDev, AiDev, and GameDev. Currently
 
 ## About Me
 I'm just a student aspiring to work online. Here are a few key points about me:
-
-- 🌑 **Roblox Scripter [Hobby]** 🚀
   
 - 💻 **Learning Software Dev** 💻
   
-- 📹 **Video Editor [5 Years]** 🎬
+- 📹 **Video Editor [3 Years]** 🎬
 
 Feel free to connect with me on Discord (PapLion#95228) if you have any questions or if you're interested in collaboration!
 
