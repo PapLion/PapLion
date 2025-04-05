@@ -22,11 +22,6 @@ Check out my [WebDev Portfolio](https://paplion.github.io/Portafolio-Panda/src/h
 
 *Let's connect and build something amazing together!*
 
-
-<!---
-PapLion/PapLion is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=PapLion&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapLion&theme=react&layout=compact" />
