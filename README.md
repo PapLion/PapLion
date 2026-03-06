@@ -2,26 +2,24 @@
 ### Mid-Senior Full-Stack & ML Engineer | CS Engineering Student
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Freelance%20/%20Independent-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Custom%20LLM%20%26%20Multiplatform-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Freelance%20/%20Independent-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Custom%20LLM%20%26%20Multiplatform-blue?style=flat-square" />
 </p>
 
 > **"Creating digital experiences that combine logic, art, and emotion."**
-> Desarrollador independiente con +3 años de experiencia real. Actualmente cursando Ingeniería en Ciencias de la Computación. Me especializo en diseñar sistemas escalables y soluciones de IA aplicadas, llevando el desarrollo desde la arquitectura hasta la implementación final.
+> Independent developer with 3+ years of professional experience. Currently pursuing a degree in Computer Science Engineering. I specialize in designing scalable systems and applied AI solutions, handling everything from core architecture to final deployment.
 
 ---
 
 ### 🌟 Top Featured Project: Neo-Project
 **Building a Large Language Model from Scratch**
 
-Este es mi proyecto insignia actual. No estoy usando APIs existentes; estoy construyendo la base de un LLM.
+This is my current flagship project. I am not just hitting APIs; I am building the foundational layers of an LLM.
 
-- **Architecture:** Diseño e implementación completa de una arquitectura **Transformer personalizada** desde cero.
-- **Tokenizer:** Creación de un **Tokenizer nativo** y propietario adaptado a la arquitectura.
-- **Current Phase:** Pipeline de entrenamiento avanzado. Actualmente ejecutando fases de **Supervised Fine-Tuning (SFT)** y preparando el framework para **Reinforcement Learning from Human Feedback (RLHF)**.
-- **Deployment:** Alpha operativa esperada en unas semanas (Local).
-
-[Próximamente Repositorio/Demo ↗️]
+- **Architecture:** Full design and implementation of a **custom Transformer architecture** from the ground up.
+- **Tokenizer:** Creation of a proprietary **native Tokenizer** specifically tailored for this architecture.
+- **Current Phase:** Advanced training pipeline. Currently executing **Supervised Fine-Tuning (SFT)** and preparing the framework for **Reinforcement Learning from Human Feedback (RLHF)**.
+- **Status:** Operational Alpha in active development (Local).
 
 ---
 
@@ -31,7 +29,7 @@ Este es mi proyecto insignia actual. No estoy usando APIs existentes; estoy cons
 | :--- | :--- |
 | **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
 | **AI & Data Science** | **Custom LLM Dev**, **Tokenizer Design**, **SFT/RLHF Pipelines**, **NumPy**, **Pandas**, **Scikit-Learn** |
-| **Frontend** | **React**, **Next.js**, **Vue**, **Angular**, **Astro**, **TailwindCSS** |
+| **Frontend** | **React**, **Next.js**, **Vue**, **Nuxt.js**, **Angular**, **Astro**, **TailwindCSS**, **Vite.js** |
 | **Backend** | **Node.js**, **Express**, **FastAPI**, **Django** |
 | **Multiplatform** | **Flutter**, **React Native (Expo)**, **Electron**, **Tauri** |
 | **Databases** | **SQL (Expert)**, **Supabase**, **MongoDB**, **Firebase** |
@@ -39,25 +37,24 @@ Este es mi proyecto insignia actual. No estoy usando APIs existentes; estoy cons
 ---
 
 ### 📌 A Note on My Activity
-*Muchos de mis proyectos comerciales se mantienen en **repositorios privados** por acuerdos de confidencialidad (NDAs). Mi actividad pública es solo una muestra de mi trayectoria técnica.*
+Many of my commercial and consulting projects are kept in **private repositories** due to Non-Disclosure Agreements (NDAs). My public GitHub activity is only a small snapshot of my overall technical trajectory and professional output.
 
 ---
 
 ### 📊 GitHub Activity & Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PapLion&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_buster=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapLion&layout=compact&theme=react&hide=html,css&cache_buster=1" />
+<p align="left">
+  <img height="110" src="https://github-readme-stats.vercel.app/api?username=PapLion&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapLion&layout=compact&theme=react&hide_border=true&hide=html,css" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PapLion&theme=react&hide_border=true&cache_buster=1" />
+<p align="left">
+  <img height="110" src="https://streak-stats.demolab.com/?user=PapLion&theme=react&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Let's connect!
-- **Discord:** `PapLion#95228`
+- **Discord:** `danip.p.`
 - **Web Portfolio:** [danidev-projects.vercel.app](https://danidev-git-main-paplions-projects.vercel.app/)
-- **LinkedIn:** [Tu-Link-Aquí]
 
 *“Always learning, always building, always delivering.”*
