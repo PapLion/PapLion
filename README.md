@@ -45,12 +45,12 @@ Este es mi proyecto insignia actual. No estoy usando APIs existentes; estoy cons
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PapLion&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapLion&layout=compact&theme=react&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PapLion&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_buster=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PapLion&layout=compact&theme=react&hide=html,css&cache_buster=1" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PapLion&theme=react&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PapLion&theme=react&hide_border=true&cache_buster=1" />
 </p>
 
 ---
